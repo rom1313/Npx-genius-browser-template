@@ -1,0 +1,14 @@
+{
+  "name": "genius-browser-template",
+  "version": "1.0.8",
+  "description": "",
+  "main": "./bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "genius-browser-template": "./bin/index.js"
+  }
+}
